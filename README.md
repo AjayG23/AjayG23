@@ -7,9 +7,9 @@
 ```javascript
 const ajay = {
   code: [Javascript, HTML, CSS, Python, Java, Php, SQL, MongoDB],
-  tools: [React Native, Node, React, Numpy, Pandas],
+  tools: [Node, React, Mongoose, Numpy, Pandas],
   architecture: [Monolithic, REST, MVC],,
- challenge: "Gonna try React Native!"
+ challenge: "Learning DSA and consistently solving Leetcode: https://leetcode.com/u/AjayG23/ "
 }
 ```
 
